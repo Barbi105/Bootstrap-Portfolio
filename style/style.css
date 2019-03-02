@@ -1,0 +1,17 @@
+body{
+   background: url(../style/image/background-shape.png)
+}
+
+.container{  
+    width: 1050px;    
+    height: 100%;
+ }
+ 
+#bioImage {
+float: left;
+background-color: white;
+padding: 10px;
+width: 200px;
+height: 200px;
+margin: 10px;
+}
